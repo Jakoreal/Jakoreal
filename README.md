@@ -28,15 +28,6 @@ I enjoy building projects that solve that makes everday task easier , especially
 
 ---
 
-## 📌 Projects (Work in Progress)
-- 📊 ML models for prediction & classification  
-- 🤖 AI Workflows and Agents  
-- 🧪 Experiments with data & algorithms  
-
-> I focus on understanding **why** things work.
-
----
-
 ## 🎯 Goals
 - Build strong projects for competitions & hackathons
 - Create an AI product for real users
