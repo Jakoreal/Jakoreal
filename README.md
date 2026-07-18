@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khumo
 
-I'm a Grade 10 student with a strong interest in **Machine Learning, AI Engineering and Data Science**.  
+I'm a Grade 11 student with a strong interest in **Machine Learning, AI Engineering and Data Science**.  
 I enjoy building projects that solve that makes everday task easier , especially tools for students.
 
 ---
